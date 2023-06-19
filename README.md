@@ -1,2 +1,2 @@
-# Hypershift
+# HyperShift
 HyperShift - Hyperscale OpenShift
